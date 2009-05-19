@@ -31,3 +31,7 @@ Features listed below:
 = Will there be any German, Spanish, etc language files? =
 
 Yes, of course. You are welcome to help me translate the textfile [phobias.txt] into any language that you desire.
+
+== Screenshots ==
+
+Take a look at the plugin homepage!
